@@ -12,85 +12,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b87da246-5788-4ccf-92b5-77ee804ef2c0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_assert.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_assert.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_atomic.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_atomic.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_audio.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_audio.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_bits.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_bits.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_blendmode.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_blendmode.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_clipboard.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_clipboard.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_config.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_config.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_config.h.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_config.h.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_config.h.in" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_config.h.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_config_android.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_config_android.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_config_iphoneos.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_config_iphoneos.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_config_macosx.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_config_macosx.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_config_minimal.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_config_minimal.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_config_pandora.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_config_pandora.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_config_psp.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_config_psp.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_config_windows.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_config_windows.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_config_wiz.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_config_wiz.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_copying.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_copying.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_cpuinfo.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_cpuinfo.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_endian.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_endian.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_error.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_error.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_events.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_events.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_gamecontroller.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_gamecontroller.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_gesture.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_gesture.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_haptic.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_haptic.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_hints.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_hints.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_joystick.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_joystick.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_keyboard.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_keyboard.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_keycode.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_keycode.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_loadso.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_loadso.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_log.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_log.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_main.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_main.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_messagebox.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_messagebox.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_mouse.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_mouse.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_mutex.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_mutex.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_name.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_name.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_opengl.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_opengl.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_opengles.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_opengles.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_opengles2.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_opengles2.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_pixels.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_pixels.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_platform.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_platform.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_power.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_power.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_quit.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_quit.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_rect.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_rect.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_render.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_render.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_revision.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_revision.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_rwops.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_rwops.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_scancode.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_scancode.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_shape.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_shape.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_stdinc.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_stdinc.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_surface.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_surface.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_system.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_system.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_syswm.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_syswm.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_test.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_test.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_test_assert.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_test_assert.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_test_common.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_test_common.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_test_compare.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_test_compare.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_test_crc32.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_test_crc32.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_test_font.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_test_font.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_test_fuzzer.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_test_fuzzer.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_test_harness.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_test_harness.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_test_images.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_test_images.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_test_log.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_test_log.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_test_md5.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_test_md5.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_test_random.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_test_random.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_thread.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_thread.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_timer.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_timer.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_touch.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_touch.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_types.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_types.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_version.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_version.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/SDL_video.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SDL_video.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/begin_code.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/begin_code.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/close_code.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/close_code.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/include/doxyfile" beforeDir="false" afterPath="$PROJECT_DIR$/include/doxyfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library.h" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -115,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            <state relative-caret-position="391">
+              <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -209,12 +130,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551745089516</updated>
-      <workItem from="1551745091116" duration="4516000" />
+      <workItem from="1551745091116" duration="5312000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4516000" />
+    <option name="totallyTimeSpent" value="5312000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -226,8 +147,8 @@
       <window_info anchor="bottom" id="CMake" weight="0.32872504" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32827735" />
-      <window_info anchor="bottom" id="Terminal" weight="0.23185265" />
+      <window_info anchor="bottom" id="Messages" weight="0.32827735" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.23185265" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -304,8 +225,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="391">
+          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
